@@ -26,4 +26,4 @@ _BYU-Pathway Worldwide improves lives through access to spiritually based, onlin
 
 ## Production Environment Address
 
-https://68b77ef350b9260ba4351b1b--sleepoutsideteam6.netlify.app/
+https://sleepoutsideteam6.netlify.app/
